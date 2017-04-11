@@ -7,9 +7,9 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Teste de versão GIT</title>
     </head>
     <body>
-       Esta é a minha modificação.
+       Esta é a minha quarta modificação.
     </body>
 </html>
